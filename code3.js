@@ -83,7 +83,3 @@ console.log("Instead of return we use yield inside generator functions")
 console.log("HI")
 
 console.log("hi")
-
-console.log("Hi")
-
-console.log("4 in the morning learning git, hope future me has a better sleep schedule")
