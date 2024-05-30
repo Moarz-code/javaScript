@@ -81,3 +81,5 @@ console.log("This continue until all return values have been return")
 console.log("Instead of return we use yield inside generator functions")
 
 console.log("HI")
+
+console.log("hi")
