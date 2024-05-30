@@ -79,3 +79,5 @@ console.log("assign the function to an object")
 console.log("object.next() returns the first return value") 
 console.log("This continue until all return values have been return")
 console.log("Instead of return we use yield inside generator functions")
+
+console.log("HI")
