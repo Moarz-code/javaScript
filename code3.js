@@ -83,3 +83,5 @@ console.log("Instead of return we use yield inside generator functions")
 console.log("HI")
 
 console.log("hi")
+
+console.log("Hi")
