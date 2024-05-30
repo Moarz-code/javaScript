@@ -89,3 +89,5 @@ arrowAdd = (num1, num2) => num1 + num2;
 
 result = arrowAdd(5,2)
 console.log(result)
+
+console.log(result)
